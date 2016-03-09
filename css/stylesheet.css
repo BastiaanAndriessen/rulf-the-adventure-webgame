@@ -1,0 +1,29 @@
+*
+{
+    padding: 0px;
+    margin: 0px;
+}
+
+body
+{
+    background-color: #000000;
+    font-family: Arial, serif;
+    text-align: center;
+    font-size: 62.5%;
+    overflow: hidden;
+    width: 550px;
+    margin: auto;
+    color: white;
+}
+
+p, canvas
+{
+    text-transform: uppercase;
+    font-size: 1.2em;
+    color: #ffffff;
+}
+
+#support
+{
+    display: none;
+}

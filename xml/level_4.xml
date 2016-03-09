@@ -1,0 +1,51 @@
+<map>
+    <gen_props>
+        <width>550</width>
+        <height>1300</height>
+        <stuckSupport>true</stuckSupport>
+        <heliumSupport>true</heliumSupport>
+        <default_player_x>100</default_player_x>
+        <default_player_y>100</default_player_y>
+        <background_music>song2.mp3</background_music>
+    </gen_props>
+
+    <banner id="banner_three.png" x="285" y="1216" type="static"/>
+
+    <!--<shield id="shield.png" x="294" y="730" type="item"/>-->
+
+    <rope id="rope_two.png" x="260" y="0" type="climb"/>
+    <ladder id="ladder_ver_two.png" x="200" y="980" type="climb"/>
+
+    <helium id="helium_potion.png" x="98" y="635" type="potion" value="100"/>
+
+    <todd id="todd_one.png" x="450" y="150" type="collision"/>
+    <mattress id="mattress.png" x="360" y="1010" type="collision"/>
+    <spike id="spikes_hor_three.png" x="215" y="680" type="collision"/>
+    <spike id="spikes_hor_four.png" x="70" y="-10" type="collision"/>
+    <platform id="platform_hor_one.png" x="220" y="800" type="collision"/>
+    <platform id="platform_hor_eight.png" x="40" y="1200" type="collision"/>
+    <platform id="platform_hor_eight.png" x="265" y="1030" type="collision"/>
+    <platform id="platform_hor_four.png" x="420" y="650" type="collision"/>
+    <platform id="platform_hor_four.png" x="190" y="510" type="collision"/>
+    <jumper id="jumper_spritesheet.png" x="270" y="772" type="collision"/>
+    <jumper id="jumper_spritesheet.png" x="435" y="622" type="collision"/>
+    <jumper id="jumper_spritesheet.png" x="228" y="480" type="collision"/>
+
+    <wall id="L3_wall_01.png" x="300" y="1050" type="collision"/>
+    <wall id="L3_wall_01.png" x="300" y="1050" type="collision"/>
+    <wall id="L3_wall_03.png" x="532" y="1090" type="collision"/>
+    <wall id="L4_wall_01.png" x="40" y="670" type="collision"/>
+    <wall id="L4_wall_02.png" x="135" y="570" type="collision"/>
+    <wall id="L4_wall_03.png" x="135" y="250" type="collision"/>
+    <wall id="L4_wall_04.png" x="142" y="200" type="collision"/>
+    <wall id="L4_wall_05.png" x="140" y="-20" type="collision"/>
+    <wall id="L4_wall_06.png" x="278" y="200" type="collision"/>
+
+    <wall id="L3_static_01.png" x="275" y="1050" type="static"/>
+    <wall id="wall_right_one.png" x="520" y="152" type="collision"/>
+    <wall id="wall_right_two.png" x="520" y="600" type="collision"/>
+    <wall id="wall_right_two.png" x="520" y="-290" type="collision"/>
+    <wall id="wall_left_two.png" x="40" y="0" type="collision"/>
+    <wall id="wall_left_one.png" x="40" y="400" type="collision"/>
+    <wall id="wall_left_two.png" x="40" y="850" type="collision"/>
+</map>

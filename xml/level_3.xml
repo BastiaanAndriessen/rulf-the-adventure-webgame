@@ -1,0 +1,49 @@
+<map>
+    <gen_props>
+        <width>550</width>
+        <height>850</height>
+        <stuckSupport>true</stuckSupport>
+        <heliumSupport>true</heliumSupport>
+        <default_player_x>240</default_player_x>
+        <default_player_y>125</default_player_y>
+        <background_music>song1.mp3</background_music>
+    </gen_props>
+
+    <tip id="tip_level_three.png" x="65" y="350" type="tip"/>
+
+    <banner id="banner_two.png" x="370" y="740" type="static"/>
+    <banner id="banner_three.png" x="225" y="145" type="static"/>
+
+    <todd id="todd_one.png" x="180" y="80" type="collision"/>
+    <spike id="spikes_hor_two.png" x="390" y="230" type="collision"/>
+    <platform id="platform_hor_two.png" x="195" y="725" type="collision"/>
+    <platform id="platform_hor_four.png" x="150" y="130" type="collision"/>
+
+    <health id="health_potion.png" x="320" y="705" type="potion" value="100"/>
+    <helium id="helium_potion.png" x="355" y="690" type="potion" value="100"/>
+
+    <wall id="L3_static_02.png" x="70" y="248" type="static"/>
+    <wall id="L3_static_02.png" x="70" y="248" type="static"/>
+    <wall id="L3_wallr_01.png" x="40" y="0" type="collision"/>
+    <wall id="L3_wallr_02.png" x="129" y="96" type="collision"/>
+    <wall id="L3_wallr_03.png" x="156" y="110" type="collision"/>
+    <wall id="L3_wallr_04.png" x="172" y="122" type="collision"/>
+    <wall id="L3_wallr_05.png" x="191" y="140" type="collision"/>
+    <wall id="L3_wallr_06.png" x="40" y="432" type="collision"/>
+    <wall id="L3_wallr_07.png" x="70" y="432" type="collision"/>
+    <wall id="L3_wallr_08.png" x="70" y="668" type="collision"/>
+    <wall id="L3_wallr_09.png" x="131" y="470" type="collision"/>
+    <wall id="L3_wallr_10.png" x="144" y="495" type="collision"/>
+
+    <wall id="L3_static_01.png" x="185" y="0" type="static"/>
+    <wall id="L3_wall_01.png" x="210" y="0" type="collision"/>
+    <wall id="L3_wall_02.png" x="460" y="0" type="collision"/>
+    <wall id="L3_wall_03.png" x="440" y="40" type="collision"/>
+    <wall id="L3_wall_04.png" x="460" y="405" type="collision"/>
+    <wall id="L3_wall_05.png" x="380" y="295" type="collision"/>
+    <wall id="L3_wall_06.png" x="432" y="268" type="collision"/>
+    <wall id="L3_wall_07.png" x="344" y="316" type="collision"/>
+    <wall id="L3_wall_08.png" x="292" y="353" type="collision"/>
+    <wall id="L3_wall_09.png" x="315" y="439" type="collision"/>
+    <wall id="L3_wall_10.png" x="465" y="798" type="collision"/>
+</map>

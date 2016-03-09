@@ -1,0 +1,27 @@
+{"frames": [
+{
+	"filename": "pickaxe",
+	"frame": {"x":0,"y":0,"w":25,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":25,"h":25},
+	"sourceSize": {"w":25,"h":25}
+},
+{
+	"filename": "shield",
+	"frame": {"x":25,"y":0,"w":25,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":25,"h":25},
+	"sourceSize": {"w":25,"h":25}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "items.jpg",
+	"format": "RGBA8888",
+	"size": {"w":50,"h":25},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:40863f1868ca7c7d282a47d29e4372f0:f467c197300f6a38fedea2e42350ec12:fc0e91915b2b8ae0d362ca2a3e1f1011$"
+}
+}

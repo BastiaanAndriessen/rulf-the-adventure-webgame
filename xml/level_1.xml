@@ -1,0 +1,42 @@
+<map>
+    <gen_props>
+        <width>550</width>
+        <height>900</height>
+        <stuckSupport>false</stuckSupport>
+        <heliumSupport>false</heliumSupport>
+        <default_player_x>80</default_player_x>
+        <default_player_y>200</default_player_y>
+        <background_music>song1.mp3</background_music>
+    </gen_props>
+
+    <tip id="tip_level_one.png" x="65" y="350" type="tip"/>
+
+    <rail id="rail_hor_one.png" x="118" y="590" type="static"/>
+    <rail id="rail_hor_one.png" x="158" y="780" type="static"/>
+    <banner id="banner_one.png" x="140" y="216" type="static"/>
+    <smoke id="smoke_spritesheet.png" x="335" y="590" type="static"/>
+
+    <rope id="rope_one.png" x="350" y="0" type="climb"/>
+
+    <health id="health_potion.png" x="230" y="182" type="potion" value="50"/>
+
+    <todd id="todd_one.png" x="150" y="150" type="collision"/>
+    <mattress id="mattress.png" x="80" y="865" type="collision"/>
+    <grid id="grid_hor_one.png" x="405" y="891" type="collision"/>
+    <jumper id="jumper_spritesheet.png" x="145" y="450" type="collision"/>
+    <platform id="platform_dia_one.png" x="40" y="713" type="collision"/>
+    <platform id="platform_hor_two.png" x="37" y="480" type="collision"/>
+    <platform id="platform_hor_one.png" x="130" y="200" type="collision"/>
+    <platform id="platform_hor_five.png" x="40" y="700" type="collision"/>
+    <platform id="platform_hor_six.png" x="40" y="890" type="collision"/>
+    <platform id="platform_hor_seven.png" x="488" y="890" type="collision"/>
+
+    <wall id="wall_right_one.png" x="520" y="0" type="collision"/>
+    <wall id="wall_right_one.png" x="520" y="0" type="collision"/>
+    <wall id="wall_right_two.png" x="520" y="450" type="collision"/>
+    <wall id="wall_left_one.png" x="38" y="0" type="collision"/>
+    <wall id="wall_left_two.png" x="38" y="450" type="collision"/>
+
+    <platform id="platform_hor_four.png" x="120" y="588" type="moveHor" direction="right" minX="120" maxX="235" speed="1"/>
+    <platform id="platform_hor_four.png" x="275" y="778" type="moveHor" direction="left" minX="160" maxX="275" speed="0.5"/>
+</map>

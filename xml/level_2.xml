@@ -1,0 +1,37 @@
+<map>
+    <gen_props>
+        <width>550</width>
+        <height>850</height>
+        <stuckSupport>true</stuckSupport>
+        <heliumSupport>false</heliumSupport>
+        <default_player_x>140</default_player_x>
+        <default_player_y>135</default_player_y>
+        <background_music>song2.mp3</background_music>
+    </gen_props>
+
+    <tip id="tip_level_two.png" x="65" y="350" type="tip"/>
+
+    <rail id="rail_hor_one.png" x="110" y="365" type="static"/>
+    <rail id="rail_hor_one.png" x="195" y="515" type="static"/>
+    <banner id="banner_one.png" x="140" y="730" type="static"/>
+    <banner id="banner_two.png" x="370" y="290" type="static"/>
+
+    <ladder id="ladder_ver_one.png" x="420" y="225" type="climb"/>
+
+    <health id="health_potion.png" x="280" y="255" type="potion" value="100"/>
+    <helium id="helium_potion.png" x="315" y="240" type="potion" value="100"/>
+
+    <todd id="todd_one.png" x="200" y="222" type="collision"/>
+    <spike id="spikes_hor_one.png" x="455" y="445" type="collision"/>
+    <platform id="platform_hor_one.png" x="130" y="715" type="collision"/>
+    <platform id="platform_hor_two.png" x="195" y="275" type="collision"/>
+
+    <wall id="wall_right_one.png" x="500" y="0" type="collision"/>
+    <wall id="wall_right_one.png" x="500" y="0" type="collision"/>
+    <wall id="wall_right_two.png" x="500" y="450" type="collision"/>
+    <wall id="wall_left_one.png" x="38" y="0" type="collision"/>
+    <wall id="wall_left_two.png" x="38" y="450" type="collision"/>
+
+    <platform id="platform_ver_one.png" x="115" y="370" type="moveVer" direction="right" minX="115" maxX="330" speed="1"/>
+    <platform id="platform_ver_one.png" x="415" y="520" type="moveVer" direction="left" minX="200" maxX="415" speed="0.5"/>
+</map>
