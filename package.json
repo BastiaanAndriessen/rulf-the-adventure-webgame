@@ -1,0 +1,10 @@
+{
+  "name": "rulf-the-adventure-webgame",
+  "version": "0.1.0",
+  "description": "Rulf is a platformer browsergame. The game has been designed and developed by Jeroen Vanhaeverbeke and Bastiaan Andriessen and is a school assignment for Devine (devine.be) at University College Howest in Kortrijk, Belgium.",
+  "author": "Bastiaan Andriessen & Jeroen Vanhaeverbeke",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "browser-sync": "^2.9.0"
+  }
+}
